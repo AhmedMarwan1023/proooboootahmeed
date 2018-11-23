@@ -824,4 +824,4 @@ message.channel.stopTyping()
 })
 }
 });
-client.login("process.env.BOT_TOKEN");  // توكن حقق
+client.login("NTEzMDA1MzcxODI1MTkyOTc0.Dtm_uw.ZKrVBXSX5cVtda0AIPwukYUao2o");  // توكن حقق
